@@ -1,7 +1,7 @@
 ## Hand Sign Detection
 
 1. Ensure latest python version (version 3) is installed. Verify with `python --version` or `python3 --version`
-2. Clone repo in a folder (Shift + right click and select 'Open PowerShell window here'). Run:  
+2. Clone repo in a folder. Shift + right in a new folder and click and select 'Open PowerShell window here'. Run:  
    `git clone https://github.com/bnsoni/HandSignDetection`
 3. Navigate to the cloned project:
    `cd HandSignDetection`
